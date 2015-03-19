@@ -1,0 +1,22 @@
+[http]
+	sslverify = false
+[user]
+	name = c.piotre
+	email = c.piotre@gmail.com
+[alias]
+	al = add --all
+	cm = commit -m
+	cma = commit --amend -m
+	st = status
+	ch = checkout
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	interactive = auto
+	ui = true
+	pager = true
+
+[https]
+[core]
+	ignorecase = false
