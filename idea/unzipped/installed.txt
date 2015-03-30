@@ -1,0 +1,5 @@
+com.intellij
+Lombook Plugin
+QAPlug
+QAPlug - FindBugs
+QAPlug - PMD

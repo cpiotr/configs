@@ -1,0 +1,10 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.CoreMatchers.equalTo" />
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.CoreMatchers.is" />
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.CoreMatchers.not" />
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.MatcherAssert.assertThat" />
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.Matchers.hasSize" />
+  </component>
+</application>
