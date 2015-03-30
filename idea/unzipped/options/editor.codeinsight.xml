@@ -1,10 +1,7 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
-    <EXCLUDED_PACKAGE NAME="org.hamcrest.CoreMatchers.equalTo" />
-    <EXCLUDED_PACKAGE NAME="org.hamcrest.CoreMatchers.is" />
-    <EXCLUDED_PACKAGE NAME="org.hamcrest.CoreMatchers.not" />
-    <EXCLUDED_PACKAGE NAME="org.hamcrest.MatcherAssert.assertThat" />
-    <EXCLUDED_PACKAGE NAME="org.hamcrest.Matchers.hasSize" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
 </application>
