@@ -6,9 +6,12 @@
 [alias]
 	al = add --all
 	cm = commit -m
+	ci = commit
 	cma = commit --amend -m
 	st = status
-	ch = checkout
+	br = branch
+	co = checkout
+	unstage = reset HEAD --
 [color]
 	diff = auto
 	status = auto
