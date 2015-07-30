@@ -1,9 +1,0 @@
-<application>
-  <component name="FindSettings">
-    <option name="customScope" value="Project 'tca-quant'" />
-    <option name="defaultScopeName" value="Project 'tca-quant'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'tca-quant'" />
-  </component>
-</application>
