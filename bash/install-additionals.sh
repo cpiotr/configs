@@ -19,3 +19,6 @@ sudo apt-get install gradle
 sudo apt-get install vlc 
 sudo apt-get install qnapi
 
+# Books
+sudo apt-get install calibre
+
