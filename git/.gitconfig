@@ -12,6 +12,7 @@
 	br = branch
 	co = checkout
 	unstage = reset HEAD --
+	pr = pull --rebase
 [color]
 	diff = auto
 	status = auto
@@ -24,3 +25,7 @@
 [core]
 	ignorecase = false
 	editor = vim
+[branch]
+	autosetupmerge = always
+	autosetuprebase = always
+
