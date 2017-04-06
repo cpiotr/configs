@@ -13,6 +13,15 @@
 	co = checkout
 	unstage = reset HEAD --
 	pr = pull --rebase
+	glog = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'
+	stash-all = stash save --include-untracked
+[merge]
+	conflictstyle = diff3
+[push]
+	default = simple
+	followTags = true
+[status]
+	showUntrackedFiles = all
 [color]
 	diff = auto
 	status = auto
